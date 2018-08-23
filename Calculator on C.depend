@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1410017812 source:c:\users\dhanani\desktop\vb 6.0 projects\calculator on c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1410017812 source:c:\users\dhanani\desktop\program's\calculator on c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
